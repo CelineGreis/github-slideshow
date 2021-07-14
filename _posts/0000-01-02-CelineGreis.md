@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
-Use the left arrow to go back!
+did someone ever tell you, you look like **Beyonce**?
+Use the left arrow to go back
